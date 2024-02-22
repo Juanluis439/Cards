@@ -1,0 +1,42 @@
+#carta1{
+   
+        padding: 50px 55px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+        border-radius: 20px;
+        text-align: center;
+        width: 340px;
+        background-color: #088395;
+    
+}
+
+#carta2{
+   
+    padding: 50px 55px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    text-align: center;
+    width: 340px;
+    background-color: #26577C;
+
+}
+
+#carta3{
+   
+    padding: 50px 55px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    text-align: center;
+    width: 340px;
+    background-color: #451952;
+
+}
+
+img{
+    width: 200px;
+    margin: 5%;
+}
+
+#contenedor {
+    display: flex;
+    gap: 1rem;
+}
